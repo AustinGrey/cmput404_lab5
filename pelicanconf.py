@@ -4,7 +4,7 @@ from __future__ import unicode_literals
 
 AUTHOR = 'Austin C'
 SITENAME = 'My Cool Site'
-SITEURL = ''
+SITEURL = 'https://austingrey.github.io/cmput404_lab5'
 
 THEME = 'templates/mytheme'
 
