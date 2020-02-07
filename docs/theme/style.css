@@ -5,3 +5,11 @@ html, body {
   background-color: #000000;
   color: #ffffff;
 }
+
+/* Change links so that they are accessibly colored with the dark background */
+a{
+  color:#006aff;
+}
+a:visited{
+  color:#9f239f;
+}

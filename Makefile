@@ -1,4 +1,4 @@
-# On windows just run pelican ./content -o ./docs -s ./publishconf.py and ignore all this
+# On windows just run pelican ./content -o ./docs -s ./publishconf.py -t ./templates/mytheme and ignore all this
 PY?=python3
 PELICAN?=pelican
 PELICANOPTS=
